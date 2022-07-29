@@ -1,7 +1,7 @@
 <html>
 
     <head>
-        <title>PROM "CAFE"</title>
+        <title>PROMOCION "CAFE"</title>
     </head>
     
     <body>
