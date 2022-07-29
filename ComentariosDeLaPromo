@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Comentarios</title>
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+    
+    <body>
+        <header class="header">
+            <div class="ctn-header">
+                <label class="lbl-header">¡Bienvenidos a comentarios CAFE!</label>
+            </div>
+        </header>
+
+        <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v14.0" nonce="CAdLu50y"></script>
+
+
+        <div class="ctn-data">
+            <p class="p-data">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat sed minima, 
+                vitae consequuntur dolorem velit officia consequatur deserunt eius quidem enim 
+                distinctio aliquid. Ipsum, quam? Dignissimos nulla itaque nisi nostrum!
+            </p>
+
+            <p class="p-data">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat sed minima, 
+                vitae consequuntur dolorem velit officia consequatur deserunt eius quidem enim 
+                distinctio aliquid. Ipsum, quam? Dignissimos nulla itaque nisi nostrum!
+            </p>
+
+            <p class="p-data">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat sed minima, 
+                vitae consequuntur dolorem velit officia consequatur deserunt eius quidem enim 
+                distinctio aliquid. Ipsum, quam? Dignissimos nulla itaque nisi nostrum!
+            </p>
+
+            <div class="ctn-lbl-comentar"></div><label class="lbl-comentar">Comentarios de los GAAA!</label></div>
+
+            <div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="100%" data-numposts="3"></div>
+        </div>
+    
+        <h1>Bienvenidos a Comentarios CAFE</h1>
+        
+        <img src="tercero3.ogg" height="480px" width="950px">
+        
+        <video src="2019e.ogg" height="380px" width="750px" controls>
+        
+        </video>
+        <h2><i>Aquí comenten o hablen lo que sea de nosotros o de otras promos :DD</i></h2>
+        <a href="promocion.html">Volver a CAFE PRINCIPAL</a>
+    </body>
+<!-- <img src="el nombre y ubicación de la imagen"> Ojo, solo se cierra línea de código, src significa, source --> 
+<!-- <video src="aquí va el enlace, URL del vídeo con su respectivo formato" controls>
+     </video> --> 
+<!-- <audio src="la URL del audio con su respectivo formato, mp4, ogg, etc" controls> El comando controls, sirve para reproducir un video o audio
+     </audio> -->
+
+
+</html>
